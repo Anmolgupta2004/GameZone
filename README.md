@@ -8,7 +8,7 @@
 
 <h3><font size="4">This open source repository contains a collection of games built on basic tech stacks in web development. Use your creativity, build your own game and contribute to the repository by making a PR 🎮
 <br>
-Make sure you star the repository and show your love to us💗
+Make sure you star the repository and show your love to us 
 <br>
 Also join the discord server for GameZone and start collaborating with others 🚀
 </font>
